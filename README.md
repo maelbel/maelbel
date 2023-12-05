@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maelbel
 - 💼 I'm a developer
-- 👀 I’m interested in web development more particularly in NodeJS
+- 👀 I’m interested in web development more particularly in NodeJS & ReactJS
 - 🌱 I’m currently learning NestJS, NextJS and ReactJS
 - 💞️ I’m looking to collaborate on web site development
 - 📫 How to reach me : mael.belliard@laposte.net
